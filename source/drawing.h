@@ -12,4 +12,4 @@ using namespace std;
 using namespace cv;
 
 
-void loadImage(i
+void loadImage(in
