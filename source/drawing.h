@@ -12,4 +12,4 @@ using namespace std;
 using namespace cv;
 
 
-void loadImage(int argc, char** a
+void loadImage(int argc, char** argv
