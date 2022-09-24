@@ -13,4 +13,4 @@ using namespace cv;
 
 
 void loadImage(int argc, char** argv);
-void on_
+void on_mo
