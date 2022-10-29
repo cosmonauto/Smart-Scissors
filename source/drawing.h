@@ -13,4 +13,4 @@ using namespace cv;
 
 
 void loadImage(int argc, char** argv);
-void on_mouse(int event, int x, int y, int flags, vo
+void on_mouse(int event, int x, int y, int flags, void
