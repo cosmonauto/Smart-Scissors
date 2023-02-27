@@ -4,4 +4,4 @@
 #include "drawing.h"
 #include "GraphSearch.h"
 
-using name
+using namesp
