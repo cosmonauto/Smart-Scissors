@@ -4,4 +4,4 @@
 #include "drawing.h"
 #include "GraphSearch.h"
 
-using namespace 
+using namespace cv;
