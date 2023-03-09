@@ -6,4 +6,4 @@
 
 using namespace cv;
 
-int main(i
+int main(int
