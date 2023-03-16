@@ -6,4 +6,4 @@
 
 using namespace cv;
 
-int main(int argc, cha
+int main(int argc, char**
