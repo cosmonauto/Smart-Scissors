@@ -9,3 +9,5 @@ using namespace cv;
 int main(int argc, char** argv)
 {
 	loadImage( argc,  argv);
+
+	w
