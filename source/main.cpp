@@ -10,4 +10,4 @@ int main(int argc, char** argv)
 {
 	loadImage( argc,  argv);
 
-	w
+	wai
