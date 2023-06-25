@@ -10,4 +10,4 @@ int main(int argc, char** argv)
 {
 	loadImage( argc,  argv);
 
-	waitKey(0)
+	waitKey(0);
