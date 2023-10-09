@@ -8,3 +8,6 @@
 #include <cmath>
 using namespace std;
 using namespace cv;
+
+#define M_PI 3.14159265358979323846
+void normalize(cv::Vec2d &dst);
