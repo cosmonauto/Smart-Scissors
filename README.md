@@ -1,0 +1,4 @@
+
+# Smart-Scissors
+
+## Project Information
