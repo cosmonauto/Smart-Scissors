@@ -13,3 +13,5 @@ This is the second experiment of Computer Vision from SCUT, using opencv3.4.1.
 ![image](https://github.com/cosmonauto/Smart-Scissors/blob/master/images/Project%20Presentation.gif)
 
 
+
+## SetUp（Configuration Instructions）
