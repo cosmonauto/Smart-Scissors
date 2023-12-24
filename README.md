@@ -26,3 +26,6 @@ platform:Windows
 
    ```
    ./SmartScissors lena.jpg
+   ```
+
+For more information, visit the [CSDN Blog](https://blog.csdn.net/ddogyuan/article/details/80371070).
