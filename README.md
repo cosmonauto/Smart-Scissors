@@ -23,3 +23,6 @@ platform:Windows
 2. import opencv to Solution
 
 3. open .exe using console, for example:
+
+   ```
+   ./SmartScissors lena.jpg
